@@ -20,7 +20,7 @@ I code as a hobby
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=party-pie&show_icons=true&theme=synthwave&title_color=813d9c&text_color=9141ac&bg_color=ff7800&hide_border=true&locale=en" alt="party-pie" /></p>
 
-Sometimes I'm pretty active other times not so much.  
+
 ## How to reach me:  
 <a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ewfwf" height="30" width="40" /></a>  **P4rtyPi5#6988**
 <br> <br> <br> <br>
