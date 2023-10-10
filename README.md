@@ -8,4 +8,4 @@
 
 <br>
 
-**Note**: I decided to take a break for a month aprox from github this mid august-september, now im back
+**Note**: Email me here->[owo  what's this](mailto:p4rtypi5@gmail.com "my email of course")
