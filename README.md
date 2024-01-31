@@ -3,7 +3,7 @@
 
 **ES && EN**  
 **C++, Python, Bash | knows various tools (docker, git, linux, mysql..)**  
-**Currently no specialization but will <ins>never</ins> do frontend web dev**
+**Starting compiler development & technical writing**
 <hr>  
 
 ![Static Badge](https://img.shields.io/badge/Dev%20made%20in%20Spain-8A2BE2?color=gray)
