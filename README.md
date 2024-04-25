@@ -7,7 +7,8 @@
 <hr>  
 
 ![Static Badge](https://img.shields.io/badge/Dev%20made%20in%20Spain-8A2BE2?color=gray)
-![Static Badge](https://img.shields.io/badge/main_language-C++-blue?color=pink)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/19972494?style=social&logo=stackoverflow&logoColor=gold&label=stackoverflow%20-%20PartyPie&color=pink)
+
 
 
 Email me here->[bfmario12@gmail.com](mailto:bfmario12@gmail.com "my email of course")  
@@ -15,6 +16,6 @@ Email me here->[bfmario12@gmail.com](mailto:bfmario12@gmail.com "my email of cou
 <br>
 
 <div id="header" align="left">
-  <div align="bottom"><sub>the only thing that changes is your perspective</sub></div>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmh1djZjMzdqdm1vaXZ2YzE5N2NlZ2I0eGlrOTZ0NGZrdGJjMXQ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZFzusFcThCuC4P6YRb/giphy.gif" width="100">
+  <div align="bottom"><sub>enjoy this shark i found on the internet</sub></div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZmb24zeWtsbm5mOTI2ZjhtdGZicnY5YWw1bDg2Zjl4eHFub3hxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ov9k0Ziq50EoOuWRi/giphy.gif" width="200">
 </div>
